@@ -1,4 +1,5 @@
-## Aloha! 🤙 My name is Raniery Oliveira, I'm new to programming and currently learning JavaScript!
+## Aloha! 🤙 
+My name is Raniery Oliveira, I'm new to programming and currently learning JavaScript!
 
 <div align="center">
   <a href="https://github.com/ranieryoliveira">
